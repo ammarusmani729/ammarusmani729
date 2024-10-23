@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Ammar:
+# 💫 Hi! I'm Ammar
 # 👨‍💻 WordPress Developer | Aspiring Full-Stack Web Developer
 
 ## About Me
