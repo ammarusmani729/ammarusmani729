@@ -1,5 +1,5 @@
-# 💫 Hi! I'm Ammar
-# 👨‍💻 Website Developer | PERN Stack (PostgreSQL, Express, React, Node.js) | Building Scalable Web Applications | Software Engineering Student | Open to Collaborations
+# Ammar Usmani
+# Website Developer | PERN Stack (PostgreSQL, Express, React, Node.js) | Building Scalable Web Applications | Software Engineering Student | Open to Collaborations
 
 ## About Me
 I am a Website Developer focused on building modern, scalable web applications with the PERN stack (PostgreSQL, Express.js, React, and Node.js). I enjoy transforming ideas into functional digital products by combining clean design, efficient backend architecture, and performance-driven development practices.
