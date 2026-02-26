@@ -1,19 +1,28 @@
 # 💫 Hi! I'm Ammar
-# 👨‍💻 WordPress Developer | Aspiring Full-Stack Web Developer
+# 👨‍💻 Website Developer | PERN Stack (PostgreSQL, Express, React, Node.js) | Building Scalable Web Applications | Software Engineering Student | Open to Collaborations
 
 ## About Me
-- **WordPress Developer (1.5+ years)**  
-  Freelancing in website development, delivering custom WordPress solutions for diverse clients.
-  
-- **Learning Full-Stack Web Development (MERN Stack)**  
-  Currently mastering the MERN stack to expand expertise into full-stack development.
+I am a Website Developer focused on building modern, scalable web applications with the PERN stack (PostgreSQL, Express.js, React, and Node.js). I enjoy transforming ideas into functional digital products by combining clean design, efficient backend architecture, and performance-driven development practices.
 
-- **Bachelor's in Software Engineering**  
-  Pursuing a degree at DHA Suffa University, deepening my knowledge in software engineering principles.
+I have completed two internships at a software house, gaining hands-on experience in real-world website development. Working in collaborative environments helped me understand project workflows, client requirements, and the importance of writing maintainable and reliable code.
 
-- **Open for Remote Collaboration**  
-  Seeking remote collaboration on website development projects to apply and further enhance my skills.
-  
+Alongside practical development experience, I am currently pursuing a Software Engineering degree at DHA Suffa University, where I am strengthening my foundation in programming logic, data structures, algorithms, and problem-solving techniques. This academic training helps me approach development with structured thinking and write more efficient, optimized solutions.
+
+Currently, I am strengthening my expertise in full-stack development with a strong emphasis on PostgreSQL-based backend systems and scalable web application architecture. I continually explore modern web technologies, best practices in development, and problem-solving approaches to build applications that are efficient, secure, and user-focused.
+
+Core Skills & Technologies:
+• PERN Stack (PostgreSQL, Express.js, React, Node.js)
+• Website & Web Application Development
+• HTML, CSS, JavaScript
+• REST APIs & Backend Fundamentals
+• Database Design & PostgreSQL
+• Data Structures & Programming Logic
+• Responsive Design & Performance Optimization
+• Git & Collaborative Development
+
+I believe in continuous learning, practical experimentation, and building projects that solve real problems. I’m always open to collaborating with developers, startups, and teams working on meaningful web products.
+
+📩 Open to collaborations, internships, and development opportunities.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ammarusmani729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ammar_usmani__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/ammarusmani729) 
